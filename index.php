@@ -1,3 +1,2 @@
-Benvenuto!
-<br />
+Benvenuto! 
 Questa pagina è in costruzione...
