@@ -1,3 +1,4 @@
+{
     "stable": {
         "1.0": {
             "current": "1.0.4",
@@ -7,3 +8,4 @@
             "security": false
         }
     }
+}
